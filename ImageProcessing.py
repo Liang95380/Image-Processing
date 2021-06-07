@@ -1,3 +1,5 @@
+#(modified from Kylie Ying)
+
 # import the necessary packages
 from tkinter import *
 from PIL import Image
