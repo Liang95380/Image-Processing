@@ -1,4 +1,5 @@
-#(modified from Kylie Ying)
+# Credit to Kylie Ying 
+# https://www.github.com/kying18 
 
 # import the necessary packages
 from tkinter import *
