@@ -1,3 +1,6 @@
+# Credit to Kylie Ying 
+# https://www.github.com/kying18 
+
 from ImageProcessing import Image2
 
 
